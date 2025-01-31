@@ -350,7 +350,8 @@ h2 {
 
 .left-image {
     width: 40%; /* Adjust image width as needed */
-    margin-right: 2%; /* Space between the image and the note */
+    margin-right: 1%; /* Space between the image and the note */
+    margin-left: 2%;
 }
 
 .note {
@@ -362,8 +363,8 @@ h2 {
 .p{
     font-weight: bold;
     text-overflow: ellipsis;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin: 2%;
+    text-align: justify;
 }
 
 /* About Page Styles */
